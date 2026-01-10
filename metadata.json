@@ -1,0 +1,5 @@
+{
+  "name": "FlitsWoord",
+  "description": "Een interactieve tool voor leerkrachten om woorden te flitsen in de klas. Ondersteunt handmatige invoer en methodes via een lokale SQL database.",
+  "requestFramePermissions": []
+}
