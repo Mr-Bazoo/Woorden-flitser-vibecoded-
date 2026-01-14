@@ -1,1 +1,0 @@
-// Deprecated - AI function removed as per user request

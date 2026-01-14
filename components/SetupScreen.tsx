@@ -149,7 +149,7 @@ const SetupScreen: React.FC<SetupScreenProps> = ({ onStart }) => {
       </div>
       
       <p className="text-center mt-8 text-slate-400 text-sm">
-        Gemaakt voor en door leerkrachten.
+        Gemaakt door de enige echte Bas
       </p>
     </div>
   );
