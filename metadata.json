@@ -1,5 +1,5 @@
 {
-  "name": "FlitsWoord",
-  "description": "Een interactieve tool voor leerkrachten om woorden te flitsen in de klas. Ondersteunt handmatige invoer en methodes via een lokale SQL database.",
+  "name": "FlitsWoord - Staal",
+  "description": "Interactieve flitstool specifiek voor de spellingmethode Staal. Kies eenvoudig je groep en blok.",
   "requestFramePermissions": []
 }
